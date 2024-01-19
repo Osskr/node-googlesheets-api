@@ -1,0 +1,5 @@
+# Ignorar el archivo credentials.json
+credentials.json
+
+# Ignorar el directorio node_modules
+node_modules/
